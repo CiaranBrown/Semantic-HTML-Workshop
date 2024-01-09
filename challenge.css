@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 3rem;
+    text-align: center;
+}
+
+section {
+    padding: 2rem;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    padding: 0rem 30rem;
+}
+
+label, button {
+    padding: 0.3rem;
+}
+
+button {
+    margin: 1rem;
+}
